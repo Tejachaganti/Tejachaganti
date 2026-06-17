@@ -99,7 +99,7 @@ React.js • Node.js • Express.js • MongoDB Atlas • OpenAI API • JWT Aut
 
 🌐 Live Demo: https://careerforge-ai-one.vercel.app
 
-💻 Repository: https://github.com/Tejachaganti/CareerForge-AI
+💻 Repository: https://github.com/Tejachaganti/careerforge-ai
 
 ---
 
