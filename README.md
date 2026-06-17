@@ -97,7 +97,7 @@ AI-powered career development platform designed to help students and job seekers
 React.js • Node.js • Express.js • MongoDB Atlas • OpenAI API • JWT Authentication • Tailwind CSS
 
 
-🌐 Live Demo: https://careerforge-ai.vercel.app
+🌐 Live Demo: https://careerforge-ai-one.vercel.app
 
 💻 Repository: https://github.com/Tejachaganti/CareerForge-AI
 
